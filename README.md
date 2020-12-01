@@ -1,3 +1,7 @@
 # BreakOut
 This is a game I made in Unity
-You must have the unity player dll downloaded and the exe file to play the game
+To download the neccessary files go to this link
+
+https://cocowax.itch.io/breakout
+
+Download the files and keep them in one directory and then run the exe file.
